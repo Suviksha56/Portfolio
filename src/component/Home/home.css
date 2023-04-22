@@ -1,0 +1,66 @@
+
+.header{
+    position: absolute;
+        right: 50%;
+        left: 35%;
+        top:35%;
+        font-size: 90px;
+        color:white;
+}
+.hg{
+    position: relative;
+}
+
+.hh1{
+    position: absolute;
+        
+        left: 38%;
+        top: 50%;
+        font-size: 40px;
+        color: white;
+        
+}
+.g1{
+    font-size: 30px;
+}
+
+.flogo{
+    position: absolute;
+    
+        left: 95%;
+        top: 75%;
+        font-size: 25px;
+        color: white;
+}
+.lklogo{
+    position: absolute;
+    
+        left: 95%;
+        top: 80%;
+        font-size: 25px;
+        color: white;
+}
+.gtlogo{
+    position: absolute;
+    
+        left: 95%;
+        top: 85%;
+        font-size: 25px;
+        color: white;
+}
+.inslogo{
+    position: absolute;
+    
+        left: 95%;
+        top: 90%;
+        font-size: 25px;
+        color: white;
+}
+.twlogo{
+    position: absolute;
+    
+        left: 95%;
+        top: 70%;
+        font-size: 25px;
+        color: white;
+}
