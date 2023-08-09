@@ -14,11 +14,11 @@ export function Skill(){
             <div class="row">
                 <div class="col-md-1"></div>
                 <div class="col-md-5" align="left">
-                    <label for="file" class="text-light fs-4">Html/Css/90%</label><br/><br/>
+                    <label for="file" class="text-light fs-4">Html-90%</label><br/><br/>
                     <progress id="file" value="90" max="100" style={{width:"100%"}}></progress>
                 </div>
                 <div class="col-md-5" align="left">
-                    <label for="file" class="text-light fs-4">React JS/70%</label><br></br><br/>
+                    <label for="file" class="text-light fs-4">React JS-70%</label><br></br><br/>
                     <progress id="file" value="70" max="100" style={{ width: "100%" }}> 32% </progress>
                 </div>
             </div>
@@ -28,11 +28,11 @@ export function Skill(){
             <div class="row">
                 <div class="col-md-1"></div>
                 <div class="col-md-5" align="left">
-                    <label for="file" class="text-light fs-4">Java/50%</label><br /><br />
+                    <label for="file" class="text-light fs-4">Java-50%</label><br /><br />
                     <progress id="file" value="50" max="100" style={{ width: "100%" }}></progress>
                 </div>
                 <div class="col-md-5" align="left">
-                    <label for="file" class="text-light fs-4">Python/60%</label><br></br><br />
+                    <label for="file" class="text-light fs-4">Python-60%</label><br></br><br />
                     <progress id="file" value="60" max="100" style={{ width: "100%" }}> 32% </progress>
                 </div>
             </div>
@@ -42,15 +42,39 @@ export function Skill(){
             <div class="row">
                 <div class="col-md-1"></div>
                 <div class="col-md-5" align="left">
-                    <label for="file" class="text-light fs-4">Bootstrap/80%</label><br /><br />
+                    <label for="file" class="text-light fs-4">Bootstrap-80%</label><br /><br />
                     <progress id="file" value="80" max="100" style={{ width: "100%" }}></progress>
                 </div>
                 <div class="col-md-5" align="left">
-                    <label for="file" class="text-light fs-4">C/C++/50%</label><br></br><br />
+                    <label for="file" class="text-light fs-4">CSS-50%</label><br></br><br />
                     <progress id="file" value="50" max="100" style={{ width: "100%" }}> </progress>
                 </div>
             </div>
-            <br /><br /> <br /><br />
+            <br /><br /> 
+            <div class="row">
+                <div class="col-md-1"></div>
+                <div class="col-md-5" align="left">
+                    <label for="file" class="text-light fs-4">Node JS-70%</label><br /><br />
+                    <progress id="file" value="80" max="100" style={{ width: "100%" }}></progress>
+                </div>
+                <div class="col-md-5" align="left">
+                    <label for="file" class="text-light fs-4">Express Js-60%</label><br></br><br />
+                    <progress id="file" value="50" max="100" style={{ width: "100%" }}> </progress>
+                </div>
+            </div>
+            <br /><br />
+            <div class="row">
+                <div class="col-md-1"></div>
+                <div class="col-md-5" align="left">
+                    <label for="file" class="text-light fs-4">Javascript-80%</label><br /><br />
+                    <progress id="file" value="80" max="100" style={{ width: "100%" }}></progress>
+                </div>
+                <div class="col-md-5" align="left">
+                    <label for="file" class="text-light fs-4">MongoDB-70%</label><br></br><br />
+                    <progress id="file" value="50" max="100" style={{ width: "100%" }}> </progress>
+                </div>
+            </div>
+            <br/><br/><br/><br/>
         </div>
     )
 }

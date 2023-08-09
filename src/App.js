@@ -14,9 +14,9 @@ import { Contact } from './component/Contact/Contact';
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter basename='Portfolio'>
         <Routes>
-          <Route path="Portfolio/" index element={<Homes />}></Route>
+          <Route path="/" index element={<Homes />}></Route>
           <Route path="/about" index element={<About />}></Route>
           <Route path="/blog" index element={<Myblog />}></Route>
           <Route path="/resume" index element={<Resume />}></Route>

@@ -2,38 +2,39 @@ import { Component } from 'react';
 import '../../../node_modules/bootstrap/dist/css/bootstrap.min.css';
 
 import { FaStudiovinari } from 'react-icons/fa';
+import {Link} from 'react-router-dom';
 import './home.css'
 export class Home extends Component {
     render() {
         return (
-            <div class="ds">
-                <ul class="nav p-2 fs-5  fixed-top gd">
+            <div classNAme="ds">
+                <ul className="nav p-2 fs-5  fixed-top gd">
 
-                    <li class="nav-item ">
+                    <li className="nav-item ">
 
-                        <a class="nav-link active text-light fs-5 " aria-current="page" href="Portfolio/">
+                        <Link className="nav-link active text-light fs-5 " aria-current="page" to="/">
                             <FaStudiovinari className='g1'></FaStudiovinari>
-                            <b>S</b></a>
+                            <b>S</b></Link>
                     </li>
 
 
-                    <li class="nav-item ms-auto">
-                        <a class="nav-link text-light" href="/about">About</a>
+                    <li className="nav-item ms-auto">
+                        <Link className="nav-link text-light" to="/about">About</Link>
                     </li>
 
 
-                    <li class="nav-item">
-                        <a class="nav-link text-light" href="/resume">Resume</a>
+                    <li className="nav-item">
+                        <Link className="nav-link text-light" to="/resume">Resume</Link>
                     </li>
 
                    
 
-                    <li class="nav-item">
-                        <a class="nav-link text-light" href="/blog">Blog</a>
+                    <li className="nav-item">
+                        <Link className="nav-link text-light" to="/blog">Project</Link>
                     </li>
 
-                    <li class="nav-item">
-                        <a class="nav-link text-light" href="/contact">Contact</a>
+                    <li className="nav-item">
+                        <Link className="nav-link text-light" to="/contact">Contact</Link>
                     </li>
 
                 </ul>

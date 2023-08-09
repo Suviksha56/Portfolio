@@ -25,11 +25,8 @@ export function Aboutme() {
                 </div>
                 <div class="col-md-8" align="left">
                     <h1 class=" text-success text-justify mt-5">Who am i?</h1>
-                    <h1 class=" fs-1 mb-10 text-light">I'm Suviksha, a visual UX/UI Designer and Web Developer</h1>
-                    <p class="text-secondary fs-4">I am a freelancer based in the United Kingdom and i have been building noteworthy
-                        UX/UI designs and websites for years, which comply with the latest design trends.
-                        I help convert a vision and an idea into meaningful and useful products. Having a sharp eye
-                        for product evolution helps me prioritize tasks, iterate fast and deliver faster.</p>
+                    <h1 class=" fs-1 mb-10 text-light">I'm Suviksha</h1>
+                    <p class="text-secondary fs-4">I am a a motivated web developer looking for an opportunity to work in a challenging environment to prove my technical skills in an industry that offers professional growth and be part of the company's growth whilebeing resourceful and flexible.</p>
                     <hr class="text-secondary" />
                     <div class="row">
                         <div class="col-md-4 text-light fs-5">

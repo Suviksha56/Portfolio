@@ -15,7 +15,7 @@ export function Myblog() {
 
             <div class="col-md-12 text-center text-white mt-5 fr" >
                 <h4 class="mt-5 text-secondary">Check out my latest blog posts</h4>
-                <h1 class="ab"><b>My Blog</b></h1>
+                <h1 class="ab"><b>Projects</b></h1>
 
                 <br />
             </div>
@@ -55,7 +55,7 @@ export function Myblog() {
 
 
                 
-                <div class="col-md-3 border-light gk" align="left">
+                {/* <div class="col-md-3 border-light gk" align="left">
                     <div class="card border-dark" >
                         <div>
                             <img src={blg3} height={"200px"} width={"361px"} />
@@ -65,7 +65,7 @@ export function Myblog() {
                             <p class="card-text text-secondary">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, porro rem quod illo quam, eum alias id, repellendus magni, quas.</p>
                         </div>
                     </div>
-                </div>
+                </div> */}
 
             </div>
 

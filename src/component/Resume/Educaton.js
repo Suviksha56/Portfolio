@@ -28,7 +28,7 @@ export function Education() {
                                     <div class="card-body">             
                                         <h5 class="card-text text-light mt-2 gr" ><b>Secondary Education</b></h5>
                                         <p class="card-text text-secondary gr">State Board / 2015 - 2017</p>
-                                        <p class="card-text text-secondary gr">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, porro rem quod illo quam, eum alias id, repellendus magni, quas.</p>
+                                        <p class="card-text text-secondary gr">Govt High school Kundapura</p>
                                         <hr class="text-secondary" />
                                     </div>
                                 </div>
@@ -38,8 +38,8 @@ export function Education() {
                                 <div class="card-header" align="left">
                                     <div class="card-body">
                                         <h5 class="card-text text-light mt-2 gr"><b>Computer Science</b></h5>
-                                        <p class="card-text text-secondary gr">Cambridge University / 2017 - 2019</p>
-                                        <p class="card-text text-secondary gr">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, porro rem quod illo quam, eum alias id, repellendus magni, quas.</p>
+                                        <p class="card-text text-secondary gr">State Board / 2017 - 2019</p>
+                                        <p class="card-text text-secondary gr">Bhandarkars' PU college Kundapura</p>
                                         <hr class="text-secondary" />
                                     </div>
                                 </div>
@@ -48,9 +48,9 @@ export function Education() {
                             <div>
                                 <div class="card-header" align="left">
                                     <div class="card-body">
-                                        <h5 class="card-text text-light mt-2 gr"><b>Bachelor Degree</b></h5>
+                                        <h5 class="card-text text-light mt-2 gr"><b>BCA</b></h5>
                                         <p class="card-text text-secondary gr">Mangalore University / 2017 - 2019</p>
-                                        <p class="card-text text-secondary gr">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, porro rem quod illo quam, eum alias id, repellendus magni, quas.</p>
+                                        <p class="card-text text-secondary gr">Dr. BB Hegde First Grade College Kundapura</p>
 
                                     </div>
                                 </div>

@@ -28,8 +28,9 @@ export function Services() {
                             <FaHtml5 class="text-success tr p-2"></FaHtml5>
                         </div>
                         <div class="card-body text-light" align="left">
+                            <br/>
                             <h3 class="card-title">HTML</h3>
-                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            <p class="card-text">HTML tag is used to specify the additional details on the web page that the user can view or hide on demand.</p>
                         </div>
                     </div>
                 </div>
@@ -40,8 +41,9 @@ export function Services() {
                             <FaCss3Alt class="text-success tr  p-2"></FaCss3Alt>
                         </div>
                         <div class="card-body text-light" align="left">
+                            <br/>
                             <h3 class="card-title">CSS</h3>
-                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            <p class="card-text">CSS stands for Cascading Style Sheets. CSS describes how HTML elements are to be displayed on screen, paper, or in other media. </p>
                         </div>
                     </div>
                 </div>
@@ -54,7 +56,7 @@ export function Services() {
                         </div>
                         <div class="card-body text-light" align="left">
                             <h3 class="card-title">Bootstrap</h3>
-                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            <p class="card-text">Bootstrap is a free front-end framework for faster and easier web development and includes HTML and CSS-based design templates for typography, forms, buttons.</p>
                         </div>
                     </div>
                 </div>
@@ -73,8 +75,9 @@ export function Services() {
                             <FaJsSquare class="text-success tr mt-2 p-2"></FaJsSquare>
                         </div>
                         <div class="card-body text-light" align="left">
+                            <br/>
                             <h3 class="card-title">Javascript</h3>
-                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            <p class="card-text">JavaScript is a scripting or programming language that allows you to implement complex features on web pages.</p>
                         </div>
                     </div>
                 </div>
@@ -85,8 +88,9 @@ export function Services() {
                             <FaCode class="text-success tr mt-2 p-2"></FaCode>
                         </div>
                         <div class="card-body text-light" align="left">
+                            <br/>
                             <h3 class="card-title">MERN Full stack</h3>
-                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            <p class="card-text">MERN Stack is a Javascript Stack that is used for easier and faster deployment of full-stack web applications. </p>
                         </div>
                     </div>
                 </div>
@@ -98,11 +102,14 @@ export function Services() {
                             <FaWordpressSimple class="text-success tr mt-2 p-2"></FaWordpressSimple>
                         </div>
                         <div class="card-body text-light" align="left">
+                            <br/>
                             <h3 class="card-title">Web Development</h3>
-                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            <p class="card-text">Web development, also known as website development, refers to the tasks associated with creating, building, and maintaining websites and web applications that run online on a browser.</p>
                         </div>
                     </div>
+                    <br/><br/><br/><br/>
                 </div>
+               
 
             </div>
 

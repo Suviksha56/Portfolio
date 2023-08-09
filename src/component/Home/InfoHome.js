@@ -10,11 +10,14 @@ export class Home1 extends Component {
     constructor(props) {
         super(props);
         this.state = { Name: "",i:0 }
+       
+    }
+    componentDidMount(){
         this.makeTimer();
     }
 
     makeTimer() {
-        const arr = ['Designer', 'Developer', 'Learner','Freelancer'];
+        const arr = ['Designer', 'Developer', 'Learner'];
         setInterval(() => {
             this.setState({ name: arr[this.state.i] })
             if(this.state.i===arr.length-1)
