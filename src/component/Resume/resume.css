@@ -1,0 +1,17 @@
+.abw{
+    font-size: 50px;
+}
+*{
+    background-color: black;
+}
+.bor{
+   border-left: 3px solid rgb(114, 236, 114);
+   
+}
+
+.gr{
+    margin-left:50px;
+}
+.fs{
+    width: 60px;
+}

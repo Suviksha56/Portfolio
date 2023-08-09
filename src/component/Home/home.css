@@ -1,11 +1,12 @@
 
-.header{
+.headerh{
     position: absolute;
         right: 50%;
         left: 35%;
         top:35%;
         font-size: 90px;
         color:white;
+        background-color: transparent;
 }
 .hg{
     position: relative;
@@ -18,11 +19,14 @@
         top: 50%;
         font-size: 40px;
         color: white;
+        background-color: transparent;
         
 }
 .g1{
     font-size: 30px;
 }
+
+
 
 .flogo{
     position: absolute;

@@ -1,15 +1,37 @@
 
 import './App.css';
-import { Home } from './component/Home/NavHome';
-import { Home1 } from './component/Home/InfoHome';
-import { Home2 } from './component/Home/LinkHome';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+
+
+import { Homes } from './component/Home/Homes';
+import { About } from './component/About/About';
+import { Myblog } from './component/Blog/Myblog';
+import { Resume } from './component/Resume/Resume';
+import { Contact } from './component/Contact/Contact';
+
+
 
 function App() {
   return (
     <div className="App">
-      <Home></Home>
-      <Home1></Home1>
-      <Home2></Home2>
+      <BrowserRouter>
+        <Routes>
+          <Route path="Portfolio/" index element={<Homes />}></Route>
+          <Route path="/about" index element={<About />}></Route>
+          <Route path="/blog" index element={<Myblog />}></Route>
+          <Route path="/resume" index element={<Resume />}></Route>
+          <Route path="/contact" index element={<Contact />}></Route>
+
+
+        </Routes>
+      </BrowserRouter>
+      {/* <Homes></Homes> */}
+      {/* <About></About> */}
+      {/* <Myblog></Myblog> */}
+      {/* <Resume></Resume> */}
+      {/* <Contact></Contact> */}
+
+
     </div>
   );
 }

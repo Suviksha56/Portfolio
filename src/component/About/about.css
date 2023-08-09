@@ -4,6 +4,9 @@
 .ab1{
     font-size: 70px;
 }
+.ab {
+    font-size: 70px;
+}
 .fr{
     float: right;
 }
@@ -16,4 +19,10 @@
 }
 .tr{
     font-size: 80px;
+}
+
+.s1:hover {
+    
+    padding-bottom: 2px;
+    border-color: green;       
 }

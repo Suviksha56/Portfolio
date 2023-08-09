@@ -36,7 +36,7 @@ export class Home1 extends Component {
             <div className="hg">
                 <img src={homeim} height={"740px"} width={"100%"} />
             
-                <h1 className="header">Suviksha</h1>
+                <h1 className="headerh">Suviksha</h1>
                 <h1 className='hh1'>I am {this.state.name}</h1>
                 
             </div>
