@@ -2,12 +2,12 @@ import '../../../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import './blog.css';
 import { Home } from '../Home/NavHome';
 
-import blg1 from '../Images/calculate.png';
-import blg2 from  '../Images/blog1.jpeg';
+import blg1 from '../Images/calculatorr.png';
+import blg2 from  '../Images/Student.png';
 import blg3 from '../Images/blog3.jpeg';
-import blg4 from '../Images/blog4.jpeg';
-import blg5 from  '../Images/blog5.jpeg';
-import blg6 from '../Images/blog6.jpeg';
+// import blg4 from '../Images/blog4.jpeg';
+// import blg5 from  '../Images/blog5.jpeg';
+// import blg6 from '../Images/blog6.jpeg';
 export function Myblog() {
     return (
         <div>
@@ -20,14 +20,17 @@ export function Myblog() {
                 <br />
             </div>
 
-            <div class="row">
+            <div class="row " >
                 <div class="col-md-1"></div>
-                <div class="col-md-3 border-light" align="left">
+                <div class="col-md-3 border-light gk" align="left">
                     <div class="card border-dark " >
                         <div>
+                            <a href=" https://suviksha56.github.io/Calculate/">
                             <img src={blg1} height={"200px"} width={"361px"} />
+                            </a>
                         </div>
                         <div class="card-body text-light" align="left">
+                            
                             <h3 class="card-title"><b>Calculator Project</b></h3>
                             
                             
@@ -37,21 +40,22 @@ export function Myblog() {
 
 
                 
-                <div class="col-md-3 border-light" align="left">
+                <div class="col-md-3 border-light gk" align="left">
                     <div class="card border-dark  " >
                         <div class="">
                             <img src={blg2} height={"200px"} width={"361px"} />
                         </div>
                         <div class="card-body text-light" align="left">
-                            <h5 class="card-title"><b>Take a tour of my office</b></h5>
-                            <p class="card-text text-secondary">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, porro rem quod illo quam, eum alias id, repellendus magni, quas.</p>
+                            <h3 class="card-title"><b>Student Project</b></h3>
+                            
+                            
                         </div>
                     </div>
                 </div>
 
 
                 
-                <div class="col-md-3 border-light" align="left">
+                <div class="col-md-3 border-light gk" align="left">
                     <div class="card border-dark" >
                         <div>
                             <img src={blg3} height={"200px"} width={"361px"} />
@@ -65,9 +69,9 @@ export function Myblog() {
 
             </div>
 
-        <br/><br/>
+        {/* <br/><br/> */}
 
-            <div class="row">
+            {/* <div class="row">
                 <div class="col-md-1"></div>
                 <div class="col-md-3 border-light" align="left">
                     <div class="card border-dark" >
@@ -106,9 +110,9 @@ export function Myblog() {
                     </div>
                 </div>
 
-            </div>
+            </div> */}
 
-            <br /><br /> <br /><br />
+            {/* <br /><br /> <br /><br /> */}
 
 
         </div>

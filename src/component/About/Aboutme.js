@@ -9,6 +9,7 @@ import { FaLinkedin } from 'react-icons/fa';
 import { FaGithub } from 'react-icons/fa';
 import { FaInstagram } from 'react-icons/fa';
 import { FaTwitter } from 'react-icons/fa';
+import blgg from  '../Images/SuvikshaM.pdf';
 
 export function Aboutme() {
     return (
@@ -40,7 +41,9 @@ export function Aboutme() {
                             <p>From: <span class="text-secondary">Bangalore, India</span></p>
                         </div>
                         <div class="col-md-8 text-light">
+                        <a href={blgg} download>
                             <button class="btn btn-lg bg-success btn-light border-success rounded-5">Download CV</button>
+                            </a>
                             <span className='mx-4 text-secondary' style={{ whiteSpace: "pre", textDecorationLine: "line-through" }}>            </span>
                             <FaFacebookSquare class=' ms-2 gt'></FaFacebookSquare>
                             <FaLinkedin class=" ms-2 gt"></FaLinkedin>
