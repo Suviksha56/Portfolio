@@ -28,7 +28,7 @@ export function Education() {
                                     <div class="card-body">             
                                         <h5 class="card-text text-light mt-2 gr" ><b>Secondary Education</b></h5>
                                         <p class="card-text text-secondary gr">State Board / 2015 - 2017</p>
-                                        <p class="card-text text-secondary gr">Govt High school Kundapura</p>
+                                        <p class="card-text text-secondary gr">Govt. High school Kundapura</p>
                                         <hr class="text-secondary" />
                                     </div>
                                 </div>
@@ -49,7 +49,7 @@ export function Education() {
                                 <div class="card-header" align="left">
                                     <div class="card-body">
                                         <h5 class="card-text text-light mt-2 gr"><b>BCA</b></h5>
-                                        <p class="card-text text-secondary gr">Mangalore University / 2017 - 2019</p>
+                                        <p class="card-text text-secondary gr">Mangalore University / 2019 - 2022</p>
                                         <p class="card-text text-secondary gr">Dr. BB Hegde First Grade College Kundapura</p>
 
                                     </div>

@@ -25,7 +25,7 @@ export function Myblog() {
                 <div class="col-md-3 border-light gk" align="left">
                     <div class="card border-dark " >
                         <div>
-                            <a href=" https://suviksha56.github.io/Calculate/">
+                            <a href=" https://suviksha56.github.io/Calculate/" target='_blank'>
                             <img src={blg1} height={"200px"} width={"361px"} />
                             </a>
                         </div>

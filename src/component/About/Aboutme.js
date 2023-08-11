@@ -9,7 +9,7 @@ import { FaLinkedin } from 'react-icons/fa';
 import { FaGithub } from 'react-icons/fa';
 import { FaInstagram } from 'react-icons/fa';
 import { FaTwitter } from 'react-icons/fa';
-import blgg from  '../Images/SuvikshaM.pdf';
+import blgg from  '../Images/SuvikshaR.pdf';
 
 export function Aboutme() {
     return (
