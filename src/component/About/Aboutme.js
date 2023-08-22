@@ -1,5 +1,5 @@
 import '../../../node_modules/bootstrap/dist/css/bootstrap.min.css';
-import pho from '../Images/photo.jpg'
+import pho from '../Images/s11.jpg'
 import { Home } from '../Home/NavHome';
 
 
